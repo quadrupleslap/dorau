@@ -1,0 +1,9 @@
+You bypass the door quite easily. It's nice that the door jammer works so well!
+The room before you is a mess hall. The chairs and tables are all there, but 
+there is no food. Other than this, the room is bare.
+
+There are three doors that lead out of this room to the South, West and North.
+Will you go:
+West? (56)
+South? (116)
+North? (314)

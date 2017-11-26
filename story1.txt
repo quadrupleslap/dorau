@@ -1,0 +1,24 @@
+Yes... hmm... I see. So THAT is your stats as a person. Pretty pathetic, if you
+ask me.
+
+...
+
+It seems that you may not know how to view your own stats. This omniscient
+narrator that has undoubtedly insulted your life skills will now show you how to
+view your own stats. This is not a good way to start. (Unless you are a
+masochist.)
+
+NOTE: Type in 'STATS' (in any combination of caps and non caps) into the
+'Command' Bar you have been unwittingly using. Your SKILL, HEALTH and LUCK 
+should pop up.
+
+SKILL is a measure of... well, skill. It determines how likely you are to 
+succeed in something. If you couldn't determine this, you don't deserve a high
+SKILL value.
+
+HEALTH is so obvious that I'm not going to even say anything. Needless to say,
+when your health hits 0, YOU DIE. Dying is bad for the heart.
+
+LUCK measures how lucky you are. Really.
+
+(Press Enter to continue.)

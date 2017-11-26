@@ -1,0 +1,9 @@
+~3
+% 1
+You intuitively redirect the target of the spell you cast on yourself at the
+last second. Your instincts sharpen, and you feel faster. Gain 3 SKILL 
+temporarily for this combat only. This can go above INITIAL. You lose only 1
+HEALTH for this magic.
+
+Continue the battle!
+¤¤ CONTINUE ¤¤

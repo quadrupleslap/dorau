@@ -1,0 +1,16 @@
+% 3
+You concentrate. This is it!
+
+Heavenly wings spread from your back, and you rise to the sky. The clouds
+covering the stars thin, then disappear altogether. Light condenses in your 
+outstretched hand.
+
+The dragon roars, and a stream of necrofire flies at you. You fling the light
+head-on at the fire. This light splits, forming a myriad of brilliant swords.
+Together, the blades descend upon the unholy creature, slashing through the 
+necrofire, and raining down Judgement.
+
+You float back to the ground, and your wings retract. Lose 3 HEALTH for this
+spell only. Upon inspection, the 'Holy Smite' has become the unique spell
+'Judgement', a power granted only to you.
+(Press Enter to continue.)

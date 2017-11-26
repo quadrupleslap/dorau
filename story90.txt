@@ -1,0 +1,10 @@
+>S 2
+You enter a room. The door is on the opposite wall, but your movements are 
+impeded by your surroundings. In fact, the floor you are standing on runs for 
+about 30 centimetres, before dropping in level drastically. You look down, and
+see a layer of slimy water. Ladders lead down into this sludge, and back up on
+the other side.
+Now, will you.... 
+Go down, to reach the other side? (15)
+Give up, and return? (116)
+@Floater& Use the floater and leviate over the slime? (85)

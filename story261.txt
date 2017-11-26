@@ -1,0 +1,9 @@
+>S 1
+>H 1
+All you manage to do is hurt your shoulder. Lose 1 HEALTH, and 1 SKILL for this
+fail.
+
+The water is really rising now. It might be a good idea to try again. You half 
+wade, half charge the door, in a desperate bid to open it.
+
+(Press Enter to continue.)

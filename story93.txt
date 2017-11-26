@@ -1,0 +1,12 @@
+>S 1
+You climb down. Fully expecting to drop into the liquid, you are mildly 
+suprised when it is found to be solid. You are really suprised when the slime
+you are standing on rears up to attack you!
+
+Jelly Slime SKILL:7 HEALTH:18
+
+You fight this battle at 1 less SKILL, due to awkward positioning. Also, due to
+your current location, you unfortunately cannot escape, as the slime bobs up and
+down to disorientate you. Luckily, the creature only deals one damage to you
+for every hit it gets, although you will be slimy for days afterwards....
+**BATTLE**

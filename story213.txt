@@ -1,0 +1,7 @@
+You open the door to your right. The room is obviously a cabin, filled with 
+bunk beds. A table has been smashed into the side of the cabin, and the window
+is broken, shards of grass on the ground.
+Now do you wish to:
+Enter the room, and take a look? (331)
+Go over to the other door? (137)
+Leave the ship, as time is of essence? (243)

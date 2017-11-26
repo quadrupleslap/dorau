@@ -1,0 +1,11 @@
+Weetbix snorts.
+"Pah!" it says. "PUNY HUMAN! I WILL SQUASH YOU LIKE A FLY!")
+
+Weetbix, origin forme SKILL:{ HEALTH:20
+?WORLD BOSS?
+
+Weetbix will, every turn, damage itself with backlash. Every time this happens,
+it automatically loses 2 HEALTH due to its own crazy rampaging strikes.However, 
+any damage you deal to it is reduced to one. You cannot run here; the dragon 
+will not let you.
+?? BOSS BATTLE ??

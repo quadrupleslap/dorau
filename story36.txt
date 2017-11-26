@@ -1,0 +1,3 @@
+Ruby Street eventually connects to Emerald Avenue. You turn onto it.
+
+(Press Enter to continue.)

@@ -1,0 +1,34 @@
+<S 12
+<H 24
+-Invisicloak
+-Door jammer
++Ring of Healing
++Liquid
+You wake up, and feel completely invigorated. Your HEALTH and SKILL have been 
+restored to their INITIAL values. An alien, a Portatore, is standing next to
+you, as if on guard. He notices that you have awakened.
+
+"Thankyou for your act, hero." it says. "Many of us would like to meet and 
+congragulate you, but you did mention you were on an important quest. (When was
+this..?) We have prepared, however, a few gifts to show our gratitude."
+
+Another alien walks in through the door, and offers you your inventory. You 
+notice that both the cloak and door jammer are gone. However, the first alien
+then holds out two items for you to take.
+
+The first is a ring, with a blue jewel embedded within. You slip it upon your
+finger, and the gem glows.
+"That object is a Ring of Healing. Using nanotechnology, the ring will aid in
+repairing your body when you heal. (Whenever you regain HEALTH for whatever 
+reason, the ring will heal you for one more than it otherwise would, but not
+over INITIAL.)
+
+The second item is a drink. You look at it with a bit of mistrust. What is this?
+"This is an item a previous hero left for us." the alien says. "We are.. um...
+not sure what it does, but you should take it with you."
+You may drink the liquid at any time but in battle, with the command 'ALD.'
+
+"Thankyou, hero. Goodbye!" the alien says as you are transported to another 
+location.
+
+(Press Enter to continue.)

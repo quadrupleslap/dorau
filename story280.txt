@@ -1,0 +1,13 @@
+>H 1
+% 3
+You cast a spell, and a blue shield appears in front of you, temporarily 
+protecting you from damage. Lose 3 HEALTH.
+
+Kerrigan laughs.
+"Psionic energy? None is more masterful at it than ME!"
+
+The shield before you suddenly shatters, and you fly backwards into a wall. Lose
+1 HEALTH. Kerrigan jumps at you again, preparing to reengage.
+
+You can still escape! Just do it! (Seriously.)
+¤¤ CONTINUE ¤¤

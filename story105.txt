@@ -1,0 +1,9 @@
+You have unwittingly stumbled upon a barrack in the interior of the ship. Many
+aliens are training within, and you give a sigh of relief that you cannot be 
+seen. There is no way you could ever beat so many of these creatures up! You see
+a sparkle near one of the beds, and a door located near you. You hope that the 
+aliens are not observant enough to notice a door randomly opening and closing.
+Will you:
+Go through the Northern door? (300)
+Go through the Western door? (68)
+Investigate the sparkle you saw? (206)

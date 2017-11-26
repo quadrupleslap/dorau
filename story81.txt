@@ -1,0 +1,6 @@
+You find yourself back at your starting point upon the ship. The two bodies of
+the aliens that you killed are gone; you resolve to be wary of enemies.
+Now, do you go:
+East? (268)
+West? (192)
+North? (75)

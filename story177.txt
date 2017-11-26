@@ -1,0 +1,15 @@
++Provision
++Provision
++Provision
+You visit the essentials store. The store is packed with objects, such as rope,
+helmets, mirrors and pickaxes. However, what you notice is in abundance is the
+amount of food. The owner comes over to you, and upon seeing your sword, guesses
+that you are on an adventure or something.
+
+"Here," he says, handing you some food. "Take this for free. We have too much."
+You are almost moved to tears by such kindness. You can eat provisions anytime,
+but in combat, by typing 'EAT' into the command bar. Each portion restores 4
+HEALTH, and the shopkeeper gives you 3 portions. You thank the shopowner 
+gratefully, and leave.
+
+(Press Enter to continue.)

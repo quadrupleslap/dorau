@@ -1,0 +1,7 @@
+>H 2
+You attempt to escape from the boulder beast by using the alien floater.
+However, you smash the button in desperation several times after a single press
+does not work. You finally conclude that the floater is not working anymore, for
+whatever reason. During this time, you are plummeled by the boulder beast. Lose
+2 HEALTH. You must continue the fight!
+**CONTINUE**

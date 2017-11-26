@@ -1,0 +1,7 @@
+% 4
+>M 3
+>K 2
+You cast Shatter, and break one of the dragon's legs. It roars, and crashes to
+the ground. You lose 4 HEALTH, but it takes 3 damage as well, and in addition
+loses 2 SKILL for this crippling. If it is not dead, finish it!
+¤¤ CONTINUE ¤¤

@@ -1,0 +1,6 @@
+The corpse of the gorilla mutant is as you left it. Dead.
+No wonder it smells so bad here.
+Now, do you go:
+North? (99)
+East? (68)
+South? (300)

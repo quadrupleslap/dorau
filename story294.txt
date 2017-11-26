@@ -1,0 +1,5 @@
+% 3
+You cast 'Healing Wave' upon the armour. Luckily, it was not alive, otherwise it
+would have probably healed for 14 HEALTH if it won the joust. (Not a reference.
+Nope.) Nothing much happens, but you lose 3 HEALTH. Fight on!
+**CONTINUE**

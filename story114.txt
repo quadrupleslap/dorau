@@ -1,0 +1,8 @@
+`111
+You finally kill the monstrous thing. Catching your breath, you scan the room
+with a 'pirate's eye.'
+Nothing.
+Do you exit through the:
+North door? (99)
+East door? (300)
+or South door? (68)

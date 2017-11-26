@@ -1,0 +1,14 @@
+<L 1
++Winged Helmet
+You step into the room cautiously, testing for tripwires, trapdoors, switches,
+laser pointers and other things. Nothing seems to happen, so you enter, and put
+on this magnificent helmet. Add one LUCK for this find.
+
+This helmet is a Helm of Floatation. It will gently float you down any fall. 
+However, being a helmet, it does have protective uses. There is a slight chance,
+against any non-boss entity, that this helmet will cause them to deal 1 less
+damage than stated. This does not stack with other protection.
+
+With your new helmet, you leave, and go down the corridor.
+
+(Press Enter to continue.)

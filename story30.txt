@@ -1,0 +1,7 @@
+You enter Ruby Street. Known for its shifty backstabbing no-good citizen, you
+encounter one not 5 steps into it. The hunchback looks at you, smiles a toothy
+grin that shows too many gaps in the teeth, and bids you to come and inspect his
+wares.
+Do you:
+	Want to do so? (69)
+	Continue onwards, ignoring him? (15)

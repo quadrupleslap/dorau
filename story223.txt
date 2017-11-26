@@ -1,0 +1,19 @@
+<H 2
+It is late when you set up camp for the night. The fire casts strange shadows
+upon the grass, and you sleep uneasily.
+
+You wake up invigorated in the morning, despite this. Regain 2 HEALTH. Marching
+onwards, you find that the land around you begins to change for the worse; the
+odd tree is gnarled and leafless, and even animal tracks begin to disappear. The
+grass around begins to be brown in colour, then blackened, before finally not
+growing at all. Something is very wrong with this land.
+
+@Map to the Golden Monkey& You notice that you can take a short detour to make it to the 'X' on the map you
+@Map to the Golden Monkey& have managed to acquire. However, for the time being....
+@Map to the Golden Monkey&
+Your interest is piqued by a deer, grazing innocently upon the... dirt. Why is 
+there a random deer here in this forsaken land?
+Now, will you:
+@Map to the Golden Monkey& Go towards the 'X' on the map? (47)
+Investigate the animal? (335)
+Continue onwards? (191)

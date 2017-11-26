@@ -1,0 +1,18 @@
+<H 24
+<S 12
+<L 2
+You wake up in a room with blinking lights and annoying sound effects. You feel
+strong; your body practically glows with power and vitality. (Your SKILL and 
+STAMINA has been restored to INITIAL, and LUCK restored by 2 points.) As you sit
+up, a 'thing' seems to walk through the wall, into the room. It is humanoid, and
+looks almost human, save the gray skin, bald head and three eyes. For a second,
+the two of you stare at each other.
+
+"The hero is awake!" it suddenly shouts in a gurgly voice. You realise it must 
+be talking about you, as more of these things poke their head through walls,
+the floor and ceiling to point their three eyes at you. Another one walks in and
+presents you with your possessions.
+
+"Hero, we require your assistance!" it says.
+
+(Press Enter to continue.)

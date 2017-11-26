@@ -1,0 +1,12 @@
+The door is locked. However, after you rattle the door for a bit, it falls like
+a drawbridge into the room you are trying to enter. Oops.
+
+After seeing such dark colours around you for so long, the gold is almost
+blinding. Golden tables, golden chairs, golden tea sets, golden shelves, and a
+statue of a girl in gold. The room's only inhabitant is an old man. He wears a
+gold crown, and his clothing is, interestingly enough, golden rags.
+
+"Help... me..." he croaks out, and reaches out to touch you.
+Do you:
+Allow him? (145)
+Back off? (233)

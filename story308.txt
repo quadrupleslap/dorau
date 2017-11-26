@@ -1,0 +1,26 @@
+% 8
+<S 13
+<L 13
+<H 5
+You cast a random spell. This spell saps you of energy, and you lose the maximum
+8 HEALTH for it. In this moment, you are unable to dodge, and King Midas touches
+your face. All is over.
+
+Or not. Confusion shows on both your faces as nothing happens. Where is the
+famed 'Midas Touch?'
+
+Behind him, the golden objects shimmer, before they are suddenly restored to 
+their original forms. The door, table, tea set, rags, all revert to their 
+original materials. Yet the girl remains golden. Midas turns around, and upon 
+seeing that she is still an unmoving statue, breaks into sobs.
+
+Yet this was not meant to be a tragedy.
+
+The gold cracks, a multitude of thread-like lines spreading all over the object,
+before shattering, revealing a flesh-and-blood version double of the statue
+underneath. The girl opens her eyes, still alive after such a long imprisonment.
+
+For such an act (however accidental it was) the gods look down upon you with 
+kindness. Restore 5 HEALTH, and your SKILL and LUCK back to initial. Leaving
+the two in an emotional moment, you slip out.
+(Press Enter to continue;.)

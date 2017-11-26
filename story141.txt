@@ -1,0 +1,21 @@
+>S 2
+The old man says a single word, and with the sound of a toilet flushing, a huge
+boar appears. It is actually huge. Like, actually. If you could kill it, there
+would be enough pork for a whole month to gorge yourself on. However, the old 
+man first sets down some rules.
+
+"You can only fight with your bare hands, and cannot kill the boar, only subdue
+it."
+
+How the hell does he think you can subdue this thing? As you are about to 
+whine at the man, the boar lowers its head. You try to draw your weapon, but a 
+eyeless look from the old man of the forest is enough to stop you.
+
+Boar SKILL:8 HEALTH:5
+
+The boar is quite weak, for some reason, but you are fighting with your bare 
+hands. This is a horrible battle, even worse than when you had a suitcase. You 
+temporarily lose 2 SKILL for this battle, and also only deal 1 damage for every
+successful hit. You can't run or use magic; the forest guardian dude is making
+sure of that.
+**BATTLE**

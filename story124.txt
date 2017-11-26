@@ -1,0 +1,11 @@
+You wait politely, for the alien to finish. You don't really catch most of it,
+but for the part where the creature said "... you want the password to the core?
+Then you must face me!"
+The alien draws out a lance like object that glints in the light. You can do 
+this!
+
+Alien Leader SKILL:12 HEALTH:12
+|MINI-BOSS|
+
+You cannot run; remember, the doors are locked?
+**BATTLE**

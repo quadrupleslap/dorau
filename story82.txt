@@ -1,0 +1,7 @@
+wThe path eventually intersecs at a 3 wayed fork. The ones to the South and 
+East run straight until they hit doors, while the one to the West turns North 
+after a few metres.
+Will you go:
+South? (192)
+East? (75)
+West? (151)

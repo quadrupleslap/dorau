@@ -1,0 +1,5 @@
+The forest around you is lush. You slow down, upon realising you should probably
+stock up on food.
+Do you wish to go foraging for edible plants and maybe small animals? 
+Yes.(1)
+No.(2)

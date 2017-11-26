@@ -1,0 +1,6 @@
+The room is as you left it. It seems that the aliens haven't felt the loss of
+their glorious leader yet. You look at the pendant again. It says 
+'PASSWORD: ALOHA SNACKBAR.'
+Do you:
+Take the exit through the left door? (151)
+Or maybe the one on the right? (251)

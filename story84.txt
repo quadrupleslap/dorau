@@ -1,0 +1,8 @@
+The path runs North for a short distance, then turns to the West. There is a 
+door here. However, when you apply the door jammer to it, the door remains 
+stubbornly locked. 'PASSWORD REQUIRED' flashes upon it.
+Now, will you:
+Return to the mess hall? (75)
+Continue trying to open the door? (244)
+Or maybe you actually have a password? If so, then input this password into the
+'Command' bar.

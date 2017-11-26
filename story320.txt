@@ -1,0 +1,7 @@
+>H 2
+You roll to the left, but the fire singes your hair, and scorches your right
+arm. Lose 2 HEALTH. You scamper to your feet, but then you realise that the 
+dragon is trying to stomp on you. Lacking any common sense, due to the pain, you
+attempt a backflip.
+
+(Press Enter to continue.)

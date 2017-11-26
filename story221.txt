@@ -1,0 +1,15 @@
+% 5
+`330
+Arcane symbols appear in the air around you. You can feel brilliant wings unfurl
+on your back. Light condenses in the air above the night beholder. Forming the
+shape of a sword, the light crashes down upon the monstrous creature. However,
+it appears that the monster is unharmed as the light dispels; you must comtinue
+to fight the horror.
+
+The spell you just cast was 'Holy Smite,' a spell that will slay, or severely 
+damage, any undead creature. However, it does not affect any living or non-
+living creature or object, and the night beholder is very much alive. You waste
+5 HEALTH in this act.
+
+You still cannot escape.
+**CONTINUE**

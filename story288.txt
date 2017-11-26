@@ -1,0 +1,10 @@
+Most of the various things the scientist was doing is unfinished, but you see
+3 potions that seem to be complete. The first one is yellow, the second one is
+red, and the last one is clear and colourless. None of them are labelled, and 
+you are not sure if you should drink any of this, or if you should just go up
+the stairway to your right.
+Do you:
+Try the yellow potion? (79)
+Try the red potion? (53)
+Try the colourless potion? (27)
+Just go up the stairs? (346)

@@ -1,0 +1,8 @@
++Excaliber
+The sword is very, very heavy, but you think you can carry it. However, it may 
+be a bit to much to expect to be able to swing it in battle.
+"That sword is Excaliber. Use it well." the satyr then disappears into his hut.
+You strap this 'Excaliber' to your back, shrugging at the randomness of your 
+adventure. Maybe you'll be able to summon the Saber class servant next.
+
+(Press Enter to continue.)

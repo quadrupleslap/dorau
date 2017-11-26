@@ -1,0 +1,8 @@
+The next door you come to is made of an unknown material. As you place your 
+hand upon it, it seems as if it is pulsating, and you quickly snatch it away,
+partly due to shock. Once the initial feeling of panic wears off, you question
+if the door was really pulsating, or if it was only your imagination.
+Will you:
+Press your ear to the door, to try and listen in? (1)
+Open the door? (2)
+Ignore it, and proceed up the corridor? (3)

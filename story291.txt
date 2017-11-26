@@ -1,0 +1,5 @@
+You taste the colourless potion, with the tip of your tongue. Nothing seems to
+happen, and the potion does not have a taste.
+Do you:
+Take a swig? (1)
+Climb the stairs instead? (2)

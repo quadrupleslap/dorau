@@ -1,0 +1,13 @@
+The journey East is uneventful, save for one instance. As you proceed across the
+sand, your newly-aquired Osiris' Sight detects movement underground. You leap 
+backwards, and just avoid the maw of a mighty sandworm as it rises up to devour
+you. You slash at it... only to find two more maws rising at your side. Fight
+them one by one!
+
+Sandworm Maw SKILL:7 HEALTH:7
+Sandworm Maw SKILL:8 HEALTH:9
+Sandworm Maw SKILL:10 HEALTH:10
+
+Damn, this is a really unfair fight! Yet you cannot escape, for you are 
+surrounded by these things. So why arn't they attacking you at the same time?
+**BATTLE**

@@ -1,0 +1,7 @@
+<H 8
+<L 1
+You drink the red solution in one gulp. Before your very eyes, your wounds heal.
+Restore up to 8 HEALTH, and regain 1 point of LUCK.
+
+Feeling good, you climb the stairs.
+(Press Enter to continue.)

@@ -1,0 +1,4 @@
+The passage goes South for about 5 steps. You open the door there.
+You enter the room. Does the place look familiar to you...?
+
+(Press Enter to continue.)

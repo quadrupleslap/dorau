@@ -1,0 +1,9 @@
+>H 4
+>S 1
+Your dive is slower by *that* much, and you feel a hot, searing pain in your 
+shoulder. Lose 4 HEALTH, and 1 SKILL, for this slightly larger-than-flesh wound.
+
+You edge past the axeblade, and continue down the corridor, your hand positioned
+to minimise bleeding.
+
+(Press Enter to continue.)

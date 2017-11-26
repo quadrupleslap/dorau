@@ -1,0 +1,16 @@
+You exit from the building where you took your job interview, gasping for fresh
+air. Of course you failed it; you couldn't even remember the name of the cousin
+of the uncle of the grandfather of the daughter of the president twice removed,
+found on page 192, Chapter 3.2 of the code of conduct. You take a quick look 
+around at your surroundings. There is a McDonald's place to your left, competing
+with the KFC right next to it. To your right is a road that leads to Execution
+Square. Where would you like to go?
+
+NOTE: this is your first choice, the first time you can actually influence what
+is going on. Type the number in brackets next to the three choices below to 
+select what you wish to do.
+
+Go to:
+	McDonalds? (146)
+	KFC? (231)
+	Execution Square? (34)

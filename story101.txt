@@ -1,0 +1,8 @@
+>H 4
+You rack your mind for a magical spell. The slime gets one free hit upon you
+as you do this; you lose 1 HEALTH. However, you find what you are looking for, 
+and you cast it without much consideration. The slime undergoes a huge change...
+into a toadstool. Very nice! (+10 points for style.) You lose, however, an
+additional 3 HEALTH for this feat.
+
+(Press Enter to continue.)

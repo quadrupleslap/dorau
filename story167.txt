@@ -1,0 +1,11 @@
+-Mariner's Crossbow
++*Mariner's Crossbow*
+You give the dwarf your crossbow. The dwarf looks at it, then goes down into
+his home. Shortly, he returns.
+"I have removed the curse upon this weapon. Also, I reoiled it."
+You take the weapon, and hope he's not scamming you (like that time that shifty
+Chinese man sold you a pillow that cures old age.)
+
+You thank the dwarf, despite your misgivings, and leave.
+
+(Press Enter to continue.)

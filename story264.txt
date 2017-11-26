@@ -1,0 +1,6 @@
+The next door you come to is one on the right. The door is made of a solid 
+steel-like substance, which could possibly be steel. (You know, just putting it
+out there.) You put your ear to the door, but of course can hear nothing at all.
+Do you:
+Open the door? (1)
+Continue along the corridor? (2)

@@ -1,0 +1,6 @@
+>H 2
+You throw a spell at the mothership core. What you have just cast is 'Mass 
+Dispel,' something which removes all enchantments on the target. The mothership
+core loses all its stacks of SKILL, reverting to its original SKILL. You, 
+however, lose 2 HEALTH for this. Now, fight on!
+¤¤ CONTINUE ¤¤

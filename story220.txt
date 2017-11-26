@@ -1,0 +1,17 @@
+You stride Northwards with great determination. You are close, you can just feel
+it. In the sky, a bird squawks, and you ignore it. Perhaps it is an albatross...
+
+Unfortunately, you should not have ignored the 'bird,' as it lands right before
+you. The creature is no bird; this is a hideous creature of chaos. Seemingly 
+created of insubstantial shadows, eyes covering every inch of its body, the 
+thing towers above you. It is discerning to be stared at by thousands of eyes,
+but you will prevail!
+
+Night Beholder SKILL:? HEALTH:16
+|MINI BOSS|
+
+The Night Beholder is a unique creature. When fighting, the skill of the Night
+Beholder will be very random. It's attacking strength is, in total, 4D6.
+
+You cannot escape here. Have you seen the size of this thing?
+**BATTLE**

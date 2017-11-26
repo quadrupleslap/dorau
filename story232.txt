@@ -1,0 +1,23 @@
+<L 1
+>S 1
+You continue on your journey North. You seem to be getting closer to where you
+need to be, judging from the surroundings around you. However, night comes 
+first, and you set up camp near a large lake.
+
+You are woken in the middle of the night by a strange noise. Add 1 LUCK for this
+incident, as it inevitably saved you from a watery grave. A tentacle, rising 
+from the water, has wrapped itself around your foot; you chop at it with your
+weapon, and something shrieks and lets go. However, more tentacles join the 
+first, and you back against a tree to face the tentacles one on one.
+
+Tentacle SKILL:6 HEALTH:3
+Tentacle SKILL:6 HEALTH:5
+Tentacle SKILL:6 HEALTH:5
+Tentacle SKILL:6 HEALTH:5
+Tentacle SKILL:6 HEALTH:5
+Tentacle SKILL:6 HEALTH:5
+
+You fight at 1 less SKILL in the dark. You cannot escape either, as you have 
+left all your stuff but your weapon that you hurridly snatched, and the clothes
+you were sleeping in.
+**BATTLE**

@@ -1,0 +1,5 @@
+>H 2
+Run? Where to? You continue the battle, as the scarecrow hits you with its 
+arm. Lose 2 HEALTH, and you can no longer use any magic in battle, due to the 
+pain.
+**CONTINUE**

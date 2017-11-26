@@ -1,0 +1,5 @@
+You try the handle, but the door is locked. 
+Now will you:
+@Lockpicks& Pick the lock? (310)
+Charge down the door? (225)
+Give up, and continue along the corridor? (162)

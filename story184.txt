@@ -1,0 +1,23 @@
+<H 2
++Provision
++Provision
++Provision
++Provision
+You wake up. It feels as if you had forgotten something important... but no 
+wonder, your head feels as if it had been stabbed by needles.You go down the 
+stairs, and consume a hearty breakfast, all free. You restore 2 HEALTH only, 
+however, due to your raging headache.
+
+The innkeeper starts to blab about a huge, flying ship, and your headache is so
+intense that it doesn't register for a while what she is talking about, before
+you realise that the topic is the Sky Pirates!
+
+"In what direction did it go?" you ask.
+"Huh? Oh, right... it went Northwards." the innkeeper says.
+You instantly pack up, thank your host, and leave. However, before you do so,
+the innkeeper presses 4 provisions into your hands. Fame has its uses!
+
+Provisions can be consumed at any time but in combat. Doing so restores 4 
+HEALTH. Type 'EAT' into the 'Command' bar to do so.
+
+(Press Enter to continue.)

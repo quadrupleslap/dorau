@@ -1,0 +1,5 @@
+The door is locked. Upon peering through the keyhole, you see a shoddy looking 
+place. In any case, it is not somewhere you want to go. Seeing no other options,
+you return to the main hall, and go up the staircase.
+
+(Press Enter to continue.)

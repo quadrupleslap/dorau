@@ -1,0 +1,6 @@
+`121
+You take deep breaths, before looking over the body of the fallen leader. Upon
+his neck is a wierd pendant with the words 'PASSWORD: ALOHA SNACKBAR' on it.
+Now, will you:
+Go through the passage on the left? (151)
+Or alternatively, the one on the right? (251)

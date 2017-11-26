@@ -1,0 +1,23 @@
+You input the words 'ALOHA SNACKBAR' into the system, and the beep this time
+signals your success. You enter the room, and the door closes behind you.
+
+The sight before you shall be remembered until you die, which may be soon. A
+pulsating blue orb spins within the centre of the room. Around it are series of
+switches, bulbs of light and levers. Occasionally, a tendril of light reaches 
+out from the strange orb, and seems to adjust its surroundings in a way only it
+can understand. This is, undoubtedly, the mothership core!
+
+An automated voice booms out.
+"INTRUDER HAS BEEN DETECCTED. DEFENSE SYSTEMS ONLINE."
+"ALL GREEN."
+
+You must destroy the mothership core!
+
+Mothership Core SKILL:} HEALTH:19
+¤WORLD BOSS¤
+
+The mothership core fights in an unorthodox way. It will, upon winning a round,
+continue to increase its SKILL by 1 until it is one higher than yours. Then, the
+next round it wins it analyses your weaknesses, before dealing FOUR damage to 
+you for every victory!
+¤¤ BOSS BATTLE ¤¤

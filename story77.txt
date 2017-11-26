@@ -1,0 +1,5 @@
+You realised that you have already searched this pile of food. Regardless of 
+whether you found something or not, there is no point in taking another look.
+Now, there are two doors that lead out of this room. Will you:
+Go North? (56)
+Go East? (116)

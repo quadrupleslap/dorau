@@ -1,0 +1,15 @@
+Ruby Street eventually turns to the right. You turn - straight into a man,
+seemingly made of muscle. This individual, upon seeing your suit and tie,
+determines that you have money, using his maximum brain capacity to do so. He
+decides to pull out a pair of knuckledusters, and you draw your scimitar.
+
+Thug SKILL:8 HEALTH:10
+
+Do you ever wonder why you know everybody else's exact health? Well, I don't
+know. You probably don't either.
+
+This battle gives you a chance to ESCAPE. If you ever decide to escape, type 'E'
+into the 'Action' bar. However, as you escape, you will turn your back on your
+opponent, granting him one last free strike upon you.
+
+**BATTLE**

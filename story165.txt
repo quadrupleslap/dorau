@@ -1,0 +1,13 @@
+-Scimitar
++¤Scimitar¤
+The dwarf takes your scimitar. A hole in the ground is revealed, and he climbs
+in. Before long, you can hear the sound of hammer on anvil.
+
+Shortly, the dwarf returns, with the promised weapon. The weapon shines with a
+wicked sharpness, and when you press it upon your thumb, a drop of blood comes
+out. The scimitar will now deal 3 damage per hit in battle, or five on a heavy
+strike.
+
+You thank the dwarf, and walk off. 
+
+(Press Enter to continue.)

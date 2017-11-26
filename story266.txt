@@ -1,0 +1,7 @@
+>H 1
+You slam your shoulder into the door. Nothing seems to happen, apart from you
+rolling around in pain on the ground. Lose 1 HEALTH, for trying to shoulder 
+charge down a steel door.
+
+You get up, give up, and decide to continue along the corridor instead.
+(Press Enter to continue.)

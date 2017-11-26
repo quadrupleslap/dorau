@@ -1,0 +1,10 @@
+<S 1
+<H 2
+The stubs of tentacles retreat back into the water. You pick up your equipment
+and keep a silent vigil for the rest of the night. You may restore 2 HEALTH for
+the scant amount of sleep you did get.
+
+You continue in the morning. As you push away dead bramble, you find a sight 
+that causes your blood to run cold.
+
+(Press Enter to continue.)

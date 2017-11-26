@@ -1,0 +1,13 @@
++Backpack
+Finally, you find a nice person! The man selling backpacks is so impressed by
+the story of your journey so far that he pushes a backpack into your hands for
+free! Since you are already in the market area, you decide to explore more of 
+the markets.
+
+To your left is a man selling miscellaneous trinkets, and to your right is a 
+person selling more essential objects, such as provisions. A witch is selling
+potions and poultices next to that person, at another stall.
+Do you:
+Go to the trinkets shop? (78)
+Go to the essential items store? (136)
+Go to the potions and poultices store? (92)

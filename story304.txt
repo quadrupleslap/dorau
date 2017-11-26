@@ -1,0 +1,7 @@
+The corridor twists and turns, so much that you have actually lost all track of
+time. It takes a while before you reach another door. The door is gold in 
+colour, and may actually be gold. You press your ear to it, but despite this,
+nothing can be heard from beyond.
+Do you:
+Open the door? (1)
+Continue up the corridor? (2)

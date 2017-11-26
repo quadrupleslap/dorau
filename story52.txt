@@ -1,0 +1,5 @@
++Mariner's Crossbow
+You pick up the crossbow, and sling it upon your belt. 
+You continue on your Eastwards journey.
+
+(Press Enter to continue.)

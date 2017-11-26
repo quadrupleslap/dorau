@@ -1,0 +1,7 @@
+You hand over the American Express card. The man looks at you in confusion.
+"What am I supposed to do with this?" he asks, before handing it back. "Come
+back with some real money."
+Now, will you:
+Visit the essential items store? (135)
+Visit the potions and poultices store? (168)
+Or leave the market area? (145)

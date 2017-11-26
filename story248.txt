@@ -1,0 +1,12 @@
+The door is not locked. You open it, prepared for anything.
+
+The room you have entered is grand, despite the dark exterior of the mansion. A
+black chandelier hangs from the ceiling, casting a dark glow on the interior of 
+the room. To your right, a staircase runs up, gargoyles adorning the banister.
+A plain red carpet covers the floor. There are patches of blue on it, however,
+in strange locations that don't seem to discern any meaning. Apart from the 
+door you have just entered by, there is only one in the opposite side of the 
+room.
+Do you:
+Climb the staircase? (1)
+Open the other door? (2)

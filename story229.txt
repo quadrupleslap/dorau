@@ -1,0 +1,11 @@
+% 6
+You cast a powerful summoning spell. From a magic pentagram summoned in the air,
+a spirit fox rushes out. Although the shapeshifter swats at the fox, the claws
+pass through without any visible damage. However, the fox can wound the 
+shapeshifter; this is obvious when its first bite draws beads of blood. Howling
+in pain, frustration at being denied of a potential meal, the shapeshifter 
+escapes. You return the spirit fox to where it came from, but this spell is 
+not at all easy; lose 6 HEALTH from this. After you spend a bit of time to 
+catch your breath, you proceed on your journey.
+
+(Press Enter to continue.)

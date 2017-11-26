@@ -1,0 +1,5 @@
+<H 3
+You wake in the morning, feeling invigorated. You regain 3 HEALTH. Picking up
+your stuff, you continue on your journey.
+
+(Press Enter to continue.)

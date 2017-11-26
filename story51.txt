@@ -1,0 +1,9 @@
+<L 1
+As you strike the last, killing blow, the Ancient Mariner disappates like sea 
+foam. You can hear the words 'thank you' as he finally leaves the world, and is
+blown away in the wind. You gain 1 LUCK for this act. However, the anchor that
+he carried with him hits the ground with a clang; it reforms into a crossbow 
+right before your eyes, that glows a magical green. Do you wish to pick the 
+object up?
+Yes (1)
+No (2)

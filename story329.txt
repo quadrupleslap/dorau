@@ -1,0 +1,18 @@
+The shadow lands. You find, to your horror, that Weetbix is not slain. Or
+rather, that its soul has not left it yet. The skeletal dragon before you can
+be nothing else but the Weetbix you fought just minutes ago. The dead dragon
+roars out at you, green necrofire foaming at the mouth.
+
+Weetbix, skeletal forme SKILL:† HEALTH:14
+¤WORLD BOSS¤
+
+Weetbix surrounds its body with a layer of green necrofire. This fire grants it
+a small 'armour save' chance. However, normal hits now deal one damage to it,
+as it has lost its armour. Also, every five combat rounds, the dragon will
+breathe a stream of necrofire at you, dealing 4 damage. You cannot afford this
+to drag on! Luckily, just as in life, Weetbix's attacks are too strong for 
+itself to handle, and it deals 1 damage to itself per combat round.
+
+You cannot run; you will be scorched to ashes by its necrofire, if you ever
+attempt to.
+¤¤ BOSS BATTLE ¤¤

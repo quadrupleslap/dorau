@@ -1,0 +1,5 @@
+Hey, it's the epilepsy room again! You close your eyes. More than once is way
+too many times...
+Will you go:
+North? (99)
+South? (56)

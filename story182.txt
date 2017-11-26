@@ -1,0 +1,6 @@
+% 3
+You use your magic. WHAM! A rabbit appears out of thin air. Such a waste of 
+effort... and you even lose 3 HEALTH for a teleportation spell...
+
+You must continue the fight.
+**CONTINUE**

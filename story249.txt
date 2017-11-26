@@ -1,0 +1,8 @@
+The room you enter is just, or even more, lavish as compared to the other. A 
+red velvet sofa adorns the centre of the room. A fireplace takes up the Western
+wall, and amazing tapestries decorate the rest of the walls. A table, directly
+infront of the sofa, holds empty plates and bowls. There are two doors, the one
+you entered by, as well as one to the North.
+Do you:
+Return to the main hall, and climb the stairs? (215)
+Open the other door? (341)

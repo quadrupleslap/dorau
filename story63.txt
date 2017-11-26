@@ -1,0 +1,9 @@
+"Teach me, sensei, the art of magic."
+The girl seems slightly pleased. She thinks for a moment.
+"Hmm, alright." she decides. "But only if you do something for me first.
+There is a creature I want to kill, for its hoof. I need this ingredient for
+one of my spells.
+If you can kill this creature, I will teach you the magic you want to learn."
+Now, do you:
+Accept? (1)
+Decline politely? (2)

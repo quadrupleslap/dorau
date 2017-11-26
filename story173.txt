@@ -1,0 +1,6 @@
+The town may seem small, but it is bustling with activity! You scan the area 
+quickly, and find a few locations of interest. However, you notice that your
+suitcase is getting a bit full, and decide to first visit the markets to 
+purchase a backpack.
+
+(Press Enter to continue.)

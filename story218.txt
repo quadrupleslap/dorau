@@ -1,0 +1,7 @@
+>H 2
+You race from the ship, and the captain strikes you in the back one last time.
+You lose 2 HEALTH. Wasting no time at all, you run back outside. It is only when
+you have ensured that the zombie is not following you when you slow down, 
+regaining your composure, and decide to continue on your quest.
+
+(Press Enter to continue.)

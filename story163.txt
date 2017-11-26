@@ -1,0 +1,16 @@
+-Prism
+You offer the sparkling jewel to the dwarf. His eyes widen in amazement as he 
+takes the gem.
+"Th... thankyou!" he stutters. "This is... truely beyond what you needed to 
+pay!"
+He paces around a few times, before seeming to come to a decision.
+"I will, if you wish, enhance any one of your weapons for you, in exchange for
+this gemstone. After all, let nobody say that dwarves are not fair and 
+trustworthy people!"
+
+What do you wish to enhance? Do you:
+@Excaliber& Enhance the Excaliber? (411)
+Enhance the scimitar? (118)
+Enhance the... suitcase??? (9)
+@Mariner's Crossbow& Enhance the crossbow? (344)
+Refuse his offer, instead moving on? (202)

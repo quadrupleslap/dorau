@@ -1,0 +1,9 @@
+<S 2
+>H 2
+You smash open the door. Such is the force of your desperation that you shoulder
+charge into the opposite wall of the corridor, and lose 2 HEALTH. The water in
+the room flows out, towards the stairs due to a slight slope that you only just
+notice. Hoping that no hostile forces have noticed your blunder, you decide to 
+continue grimly down the corridor.
+
+(Press Enter to continue.)

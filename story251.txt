@@ -1,0 +1,8 @@
+You climb the staircase. You manage to make it up halfway before an ugly 
+gargoyle, previously sitting upon the banister, unpetrifies. It fixes its eyes
+upon you, shakes the remaining rubble off its body, and takes flight at you!
+
+Gargoyle SKILL:8 HEALTH:7
+
+You can't escape this magical entity; you are determined to go up this stairway!
+**BATTLE**

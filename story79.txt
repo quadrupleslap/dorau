@@ -1,0 +1,16 @@
++Provision
++Provision
+<H 4
+You find some salted meat in a corner of the room, and decide to take it on your
+journey. You then decide, emboldened by your luck, to taste one of the fruits
+that look like a banana. To your suprise, it tastes like pineapples, and you are
+quite happy to chow down on a few of them. You regain up to 4 points of lost
+HEALTH in this room.
+
+Food you take with you can be consumed. As long as you are not in combat, or 
+otherwise occupied, (or dead,) you may consume provisions for a instant recovery
+of 4 HEALTH. You can do so by typing 'EAT' into the 'Command' bar. There is 
+enough meat for two meals.
+Now, you can: 
+Go North. (56)
+Go East. (116)

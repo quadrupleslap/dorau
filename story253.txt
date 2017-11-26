@@ -1,0 +1,8 @@
+You dispatch of the gargoyle, and it shatters at your feet. You are three 
+quarters of the way upstairs when another gargoyle shakes itself out of its 
+stony armour and attacks you.
+
+Gargoyle SKILL:8 HEALTH:7
+
+Once again, you are unwilling to escape. Fight to the death!
+**BATTLE**

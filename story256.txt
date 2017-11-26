@@ -1,0 +1,7 @@
+You open the door, expecting a slime or something to come and demolish you. 
+Instead, you find that the room is bare, save for a simple golden chest in the 
+centre of the room. There is no sign of what could possibly cause the dripping 
+sound.
+Do you:
+Wish to enter, and open the chest? (225)
+Leave the chest alone, and continue up the corridor? (232)

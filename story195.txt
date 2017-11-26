@@ -1,0 +1,16 @@
+You step onto the yellow brick road. The road glitters. You follow it along in 
+an almost dreamlike state, or to be more accurate, a dope-like state. Sparkles 
+fly up whenever your foot comes down on the road, and you behold this in wonder.
+
+A thing appears as you begin to lose all track of time. What were you doing 
+again...? The thing turns out to be a scarecrow. You dance around it for a 
+little while. Its eyes begin to glow. You pull out your weapon. It pulls off one
+of its arms, and uses it as a sword. You charge. It charges too. You must face 
+this scarecrow doppleganger.
+
+Scarecrow Doppleganger SKILL:3 HEALTH:[
+|MINI BOSS|
+
+Every time you hit the scarecrow doppleganger, you feel as if you are hitting 
+yourself. Lose 1 HEALTH every time this happens.
+**BATTLE**

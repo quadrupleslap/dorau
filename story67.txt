@@ -1,0 +1,16 @@
+Arcane symbols and incantations float within your head. You feel powerful like
+never before!
+
+Now, whenever you fight within a battle, you have the ability to cast magical 
+spells. In a fight, unless otherwise specified, you may type the word 'MAGIC'
+into the 'Action' bar to use it. However, magic is not without its risks; it is 
+taxing upon body and mind, so you will lose anywhere between 1 to 8 HEALTH when
+casting a spell. Also, as you are a complete novice with no training in the 
+magical art whatsoever (putting it off as petty sleight of hand and superstition
+before this) your spells could potentially be very random, doing something 
+unexpected or even threatening. It is advised that you use magic with care, as 
+it can be only used once per fight.
+
+Now, will you: 
+Go North? (58)
+Go East? (71)

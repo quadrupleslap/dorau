@@ -1,0 +1,12 @@
+<S 3
+The helm jukes your sword, rolling to the side. Instead, you stab a hole in the 
+floorboards. You go for a second attack, but it is too late. The armour has 
+reformed itself, for a second attack. It is still cracked from your previous
+attack, however, and lacks its lance, which it did not manage to pick up.
+Kicking its weapon down the stairs, you must destroy this animated opponent once
+more!
+
+The Black Knight SKILL:9 HEALTH:5
+
+Once again, it positions itself so you cannot pass it. You must fight.
+**BATTLE**

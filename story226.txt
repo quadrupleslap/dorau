@@ -1,0 +1,7 @@
+>M 8
+% 1
+You click your fingers, and one of the Anubis' arms explode. This will probably
+help you in this battle. The Anubis loses 8 HEALTH from this spell, yet you 
+only lose a measly 1 for the low leveled detonation spell. Continue this fight,
+to the death, if you must!
+**CONTINUE**

@@ -1,0 +1,27 @@
+The 'X' on the map is located near a triangle. Now that you are here, you find
+that it was just a symbol to represent the pyramid before you.
+
+You walk up to the pyramid warily. There seems to be nothing resembling a 
+treasure here... and it hit you. It was buried, wasn't it. You facepalm at your
+stupidity. How could you forget that all pirates bury their treasure? So why 
+didn't you bring a shovel?
+
+Your silent monologue is cut short by a booming voice.
+"Ah, a challenger! None have challenged my champion for many centries. I think
+he needs a little oiling now. Anyways, if you can successfully defeat him, I 
+will convey my blessings upon you. If you can't, you will die."
+
+Wait, don't you get a choice in this? As you are about to protest, something big
+rises out of the sands. The sand stream off its body, and you find that it is 
+a dog headed man. It is obviously a statue; it has been 
+buried for ages, come on! The statue steps forward, and pulls out a HUGE sickle
+from the sand next to him.
+
+Anubis SKILL:8 HEALTH:15
+
+You are quite lucky that Anubis is very old and has not been oiled for a while 
+now. Its movements are slow and out of sync, otherwise it would probably be a 
+SKILL:14 HEALTH:34 or something.
+
+A green barrier forms around you and the statue. Crud. No running now, I guess.
+**BATTLE**

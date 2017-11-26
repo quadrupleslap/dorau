@@ -1,0 +1,7 @@
+<M 2
+>H 2
+Unknown to you, the gorilla mutant thing is a creature that is known as a 
+'Magical Consumer,' or MC. It absorbs all the magic you throw at it, and strike
+at you again with renewed vigor. You lose 2 HEALTH, but the monster gains this
+2 HEALTH that you lost. All of a sudden, it is so much stronger....
+**CONTINUE**

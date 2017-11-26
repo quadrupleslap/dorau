@@ -1,0 +1,23 @@
+<S 2
++Scimitar
++Lockpicks
++Booze
+As the pirate falls, a whistle pierces the battlefield. Instantly, the remaining
+pirates, grabbing valuables or hostages, rappel to the top of the ship. The
+ship, in record time, sails away from the scene of the crime.
+
+You look around, finding that you are the only living person left in the square.
+None of the bodies, upon inspection, resembles Shayla, and so you deduct that 
+she was taken.
+
+You rummage through the bodies, picking up the scimitar, a set of lockpicks and
+a bottle of booze. You can drink the booze at any time, but during combat. It 
+heals up to 4 HEALTH in total, and contains one dose. (Type 'BOOZE' in the 
+'Command' bar to drink it.)
+
+Now, there are 3 paths out of Execution Square that does not go back to your job
+interview. To your left is Ruby Street, before you is Emerald Avenue and to your
+right is Sapphire Road. Do you:
+Enter Ruby Street? (1)
+Enter Emerald Avenue? (2)
+Enter Sapphire Road? (3)

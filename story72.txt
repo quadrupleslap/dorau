@@ -1,0 +1,10 @@
+Disorientated, you arrive in an unfamiliar corridor. Unfortunately, two of the
+enemy aliens instantly spot you: A miscellaneous person, who happens to look
+nothing like them, appearing out of thin air in the middle of a corridor. Of 
+course, the two warily move to attack you. You fight them one at a time, in the
+narrow interior of this spaceship.
+
+Alien SKILL:7 HEALTH:8
+Alien SKILL:8 HEALTH:6
+
+**BATTLE**

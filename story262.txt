@@ -1,0 +1,10 @@
+>H 2
+>S 1
+You fail again, and manage to wound your other shoulder. Genius. Lose 1 HEALTH,
+and 1 SKILL.
+
+The water is at your neck height. You breathe some in, and splutter. Lose an 
+additional 1 HEALTH. You think that this attempt will probably be the last one
+you get. You desperately headbutt the door.
+
+(Press Enter to continue.)

@@ -1,0 +1,7 @@
+<H 4
+You taste the biscuits, and sample the fruit. Before long, you have eaten 
+everything there. Restore 4 HEALTH for the meal.
+Now, do you:
+Wait for the 'master?' (213)
+Go North, through the door? (125)
+Leave through the door to the South? (216)

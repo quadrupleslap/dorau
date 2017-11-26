@@ -1,0 +1,10 @@
+>H 2
+You execute a perfect sweep kick at your attacker, and suprised by your skills,
+they drop the sword. You move to pick it up...
+
+Instead, you find yourself groaning in pain from a kick to the solar plexis.
+LOSE 2 HEALTH.
+
+The dark elf picks up her sword. "Well, that was rather rude," she says.
+
+(Press Enter to continue.)

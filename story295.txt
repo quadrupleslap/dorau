@@ -1,0 +1,6 @@
+>S 3
+The armour falls. However, you must destroy its helm in order to deanimate this
+object!
+
+You swing down at the helmet. Are you SKILLED enough?
+(Press Enter to continue.)

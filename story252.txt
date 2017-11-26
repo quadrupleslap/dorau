@@ -1,0 +1,4 @@
+% 2
+Gargoyles are naturally resilient to magic. You throw a decently sized fireball
+at it, but to no evident effect. Lose 2 HEALTH, and continue this battle!
+**CONTINUE**

@@ -1,0 +1,10 @@
+The room you are in would give you epilepsy, if you were a lesser person. From
+floor to ceiling, it is plastered with flashing lights all in different colours
+that continously change. In fact, there are flashing images projected directly
+from the walls themselves, too, just to make you have a brain seizure.
+You squint, and pinch yourself in the face. You are not dreaming! There is an
+item that is floating in the middle of the room!
+Do you:
+Grab the item? (4)
+Go North? (99)
+Go South? (56)

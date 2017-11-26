@@ -1,0 +1,10 @@
+The lock is difficult, but in a previous life you were a master thief, the best
+of the best, and you call upon this skill once more. The lock clicks open, and
+you open the door.
+
+Inside, the room is simple. A single torch, located upon the opposite wall, 
+graces the room with light. Under it is a small table, and upon the table is 
+a magnificent winged helmet. It looks almost too good to be true.
+Do you:
+Try this helmet on? (59)
+Leave, and go down the corridor? (131)

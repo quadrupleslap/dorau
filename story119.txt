@@ -1,0 +1,9 @@
++Floater
+`117
+You walk up and grab the item. It looks like a joystick, with a button on top.
+You press it , on a whim (never a good idea,) and suddenly begin to float! Just
+as you are about to panick, you feel something shift, and fall back to the 
+ground. You place the item in your pocket.
+Now, will you:
+Go North? (99)
+Go South? (56)

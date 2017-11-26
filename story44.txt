@@ -1,0 +1,10 @@
+Sapphire Road is a place for the rich. The people have bling, the cars have 
+bling, the houses have bling, even the seagulls have bling. The problem is, you
+don't have enough bling, so the guards stationed there (with their bling) turn
+you away.
+"Come back when you're richer!" one laughs.
+You consider punching him in the face, but really, you don't want to go to 
+jail.
+Now, you can either enter:
+Ruby Street (1)
+Or Emerald Avenue (2)

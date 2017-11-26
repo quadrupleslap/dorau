@@ -1,0 +1,5 @@
+The passage going East eventually turns North, before coming to a door. You 
+decide to open it.
+You enter the room. Does the place look familiar to you...?
+
+(Press Enter to continue.)

@@ -1,0 +1,10 @@
+A huge mansion seems to have risen up out of the dirt. Built of blackened wood,
+it gives off a sinister aura of death and decay. You know, for sure, that this
+is the final destination; there will be no unexpected twists and turns, just 
+the nitty, gritty stuff. Cautiously, you creep out of your hiding spot within 
+the trees, and walk up to the front door. There is a doorbell there, and a 
+plaque above reads 'Ring the Butler.'
+Do you:
+Ring the doorbell? (176)
+Open the door? (276)
+Look for another way to enter? (317)

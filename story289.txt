@@ -1,0 +1,12 @@
+<H 4
+^1
+-Magic
+You uncork the yellow potion and take a swig. It tastes salty, like when your 3
+Health minion gets Mad Bomber-ed to death in Arena. Just when you are about to 
+doubt the intelligence of your choice, you feel a battle lust surge through you.
+Increase your current and INITIAL SKILL by 1. However, the downside is that you
+can no longer cast any sort of magic. (Wait, there was magic in this game?!) You
+also regain 4 HEALTH, such is your battle rage and lust for blood.
+
+You go up the stairs, seeing red.
+(Press Enter to continue.)

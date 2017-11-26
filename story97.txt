@@ -1,0 +1,6 @@
+You come to a crossroad in the interior of the ship. A light glows green upon 
+the ceiling, casting a sickly glow over everything.
+Would you like to go:
+South? (268)
+North? (251)
+East? (101)

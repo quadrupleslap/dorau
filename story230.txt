@@ -1,0 +1,5 @@
+>H 2
+You attempt to run away from this foe, but you have sorely underestimated its
+speed. The shapeshifter grabs onto the back of your suit, and slashes you 
+across the face. Lose 2 HEALTH, and you have no choice but to continue battling.
+**CONTINUE**

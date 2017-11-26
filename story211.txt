@@ -1,0 +1,24 @@
++Booze
++Doubloon (4)
+At last, you make it to the Sky Pirate's ship. However, the state of it is not 
+what you expected.
+
+The ship is obviously damaged. Fallen to earth, half of the ship is just 
+destroyed. A few bodies lie upon the ground around you, and you inspect them. 
+They are Sky Pirates; most have an expression of pure horror upon their faces, 
+and some have limbs torn off or are disembowled.
+
+You come to the last corpse, and to your suprise the person coughs. It seems he
+is not completely dead. Upon seeing you, he mutters, almost as if to himself.
+"No... not the elf! Northward she went... monster... monster...."
+The man stops, and you check his pulse. Dead.
+It seems as if you came here a few days too late: why does this happen to you?
+You pursue these pirates for so long, and when you finally get here you find 
+that she has been taken by monsters. Great.
+
+You loot some of the bodies. There is nothing of interest, save 4 gold doubloons
+and a bottle of booze. You can drink the booze at any time but combat by typing
+'BOOZE' into the 'Command' bar.
+Now, will you: 
+Enter the destroyed ship to take a look? (82)
+Immediately set out towards Shayla? (11)

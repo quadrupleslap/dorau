@@ -1,0 +1,6 @@
+<H 2
+You sample the soup, immune to their protests. It's not bad. Restore 2 HEALTH.
+"This soup is rubbish!" you say.
+
+Really, you still haven't worked out what they are doing in this room.
+(Press Enter to continue.)

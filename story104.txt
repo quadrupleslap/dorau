@@ -1,0 +1,5 @@
+You realise that you have been here before. The slime is still 'dead,' and so
+you may either go through the door to the North, or South.
+Do you: 
+Exit through the North door? (68)
+Exit through the South door? (116)

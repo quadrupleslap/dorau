@@ -1,0 +1,5 @@
+% 3
+A boulder beast is naturally resiliant to any and all magic used upon it. The 
+lightning that streaks out of your finger is dramatic, but completely useless.
+Lose 3 HEALTH for this futile attempt, and continue the battle!
+**CONTINUE**

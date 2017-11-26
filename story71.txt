@@ -1,0 +1,20 @@
+>H 2
++Invisicloak
++Door jammer
+You agree and the creatures cheer. Instantly, and for the rest of the day, the
+room is a flurry of activities, with every second Portatore wanting to thank you
+and offering you many... interesting... foods such as the grubstopper soup and 
+fried mirror demons, an apparent delicacy upon their planet. Unfortunately, not
+all the foods actually agree with your stomach, and you lose 2 HEALTH from 
+stomach pains.
+
+The next day, you prepare to depart upon your adventure. The creatures, give you
+two items to carry upon your mission: a cloak that is supposed to make you 
+invisible, and a device that is said to hack doors systems upon the Fyar
+Nation's ship.
+
+"Prepare to be transported!" You walk into the machine that is meant to 
+transport you into the enemy ship. Gradually, you become see-through, and the 
+location around you shimmers and changes.
+
+(Press Enter to continue.)

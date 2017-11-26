@@ -1,0 +1,17 @@
+"I am expected." you reply.
+"Ah, Lord Morgoth, I presume?" he says. "Follow me."
+You follow him, past a room with a dark red carpet, into a very lavish waiting 
+room. The sofa is soft, and made of fine red velvet. Tapestries depicting 
+various images, crafted with the skills ofa true master, line the walls, and to 
+the West a fireplace crackles heartily. The table has a range of refreshments 
+for your consumption.
+"Make yourself at home." the hunchback says. "I apologise for the delays, but 
+the master will be here soon."
+As the hunchback leaves, you survey the room. There are two doors; one in the
+Northern wall, and one to the South, which will return you to the room you came
+by.
+Do you:
+Consume some of the refreshments? (1)
+Go North, through the door? (2)
+Go through the Southern door? (3)
+Wait patiently for the 'master?' (4)

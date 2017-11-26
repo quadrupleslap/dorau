@@ -1,0 +1,194 @@
+1 (EXAMPLE)
+Alien/8/10
+The alien stabs you with his lightsword. Lose 2 Health.
+28
+Sky Pirate/6/6
+The sky pirate cuts at you with his scimitar. Lose 2 Health.
+32
+Thug/8/10
+The thug strikes you in the stomach. You lose 2 Health.
+39
+Venus Guytrap/7/12
+The plant attempts to swallow you. You get off with bite marks. Lose 2 HEALTH.
+50
+Ancient Mariner/8/16
+The Ancient Mariner strikes with his huge anchor, and you are sent flying.
+65
+Golden Bull/9/10
+The bull gores at you. It is just a scratch as you dodge, but you lose 2 HEALTH.
+72
+Alien/7/8
+The alien strikes with his baton. You take 2 damage.
+Alien/8/6
+The alien attacks with his staff, made of a strange metal. You lose 2 HEALTH.
+87
+Alien/8/9
+The alien swings and connects with his baton. Lose 2 HEALTH.
+Alien/8/9
+The alien hits you with his staff in the corridor. You lose 2 HEALTH.
+Alien/10/8
+The alien smashes his hammer-like object into you. You lose 2 HEALTH. It hurts!
+88
+Alien/8/9
+The alien swings and connects with his baton. Lose 2 HEALTH.
+Alien/8/9
+The alien hits you with his staff in the corridor. You lose 2 HEALTH.
+Alien/10/8
+The alien smashes his hammer-like object into you. You lose 2 HEALTH. It hurts!
+93
+Jelly Slime/7/18
+The jelly slime smacks you with its... feelers? You lose 1 HEALTH.
+100
+Jelly Slime/7/18
+The jelly slime smacks you with its... feelers? You lose 1 HEALTH.
+112
+Mutant Thing/10/5
+The mutant creature hits you with its pincer, like a club. Lose 2 HEALTH.
+113
+Mutant Thing/10/7
+The mutant creature hits you with its pincer, like a club. Lose 2 HEALTH.
+124
+Alien Leader/12/12
+The alien leader prods you with his lance, discharging electricity. Lose 2 HP.
+131
+Mothership Core/-2/19
+*Special*
+132
+Mothership Core/-2/19
+*Special*
+141
+Boar/8/3
+The boar charges. You roll to the side, but the tusk clips you. Lose 2 HEALTH.
+156
+Boulder Beast/9/10
+The boulder beast smacks at you, and you lose 2 HEALTH. It is rock, you know.
+157
+Boulder Beast/9/10
+The boulder beast smacks at you, and you lose 2 HEALTH. It is rock, you know.
+158
+Boulder Beast/9/10
+The boulder beast smacks at you, and you lose 2 HEALTH. It is rock, you know.
+180
+Zombie Pirate/6/6
+The zombie shambles towards you, and bashes you with an arm. Lose 2 HEALTH.
+182
+Zombie Pirate/6/6
+The zombie shambles towards you, and bashes you with an arm. Lose 2 HEALTH.
+192
+Incompetant Assassin/8/7
+The assassin slashes at you with her knife. Ow. Lose 2 HEALTH.
+195
+Scarecrow Doppleganger/3/0
+The scarecrow smacks you with its arm. Lose 2 HEALTH.
+197
+Scarecrow Doppleganger/3/0
+The scarecrow smacks you with its arm. Lose 2 HEALTH.
+216
+Zombie Captain/9/6
+The zombie captain slashes with his scimitar in a combo style. Lose 2 HEALTH.
+220
+Night Beholder/0/16
+The night beholder strikes you with tentacles of... ok, stop. Lose 2 HEALTH.
+221
+Night Beholder/0/16
+The night beholder spits miscellaneous fluids on you... what? Lose 2 HEALTH.
+225
+Anubis/8/15
+Anubis attacks! You dodge the sickle but then he punches you. Lose 2 HEALTH.
+226
+Anubis/8/7
+The sickle just clips you. It hurts like hell. Lose 2 HEALTH.
+228
+Shapeshifter/10/10
+The shapeshifter slashes at you with sharp claws. You lose 2 HEALTH.
+230
+Shapeshifter/10/10
+Blood drips into your eyes. As you cannot see, it attacks. Lose 2 HEALTH.
+232
+Tentacle/6/3
+The wounded tentacle slaps you across the face. Lose 2 HEALTH.
+Tentacle/6/5
+The tentacle wraps itself around your leg. The welt marks... lose 2 HEALTH.
+Tentacle/6/5
+We're not gonna make a joke about tentacles now. Nope. Lose 2 HEALTH.
+Tentacle/6/5
+It slaps you across the arm. The red welt is swollen. Lose 2 HEALTH.
+Tentacle/6/5
+Seriously, another one? You are hit hard. Lose 2 HEALTH.
+Tentacle/6/5
+The last one desperately struggles against you. A lucky strike... lose 2 HEALTH.
+233
+Tentacle/6/3
+The wounded tentacle slaps you across the face. Lose 2 HEALTH.
+Tentacle/6/5
+The tentacle wraps itself around your leg. The welt marks... lose 2 HEALTH.
+Tentacle/6/5
+We're not gonna make a joke about tentacles now. Nope. Lose 2 HEALTH.
+Tentacle/6/5
+It slaps you across the arm. The red welt is swollen. Lose 2 HEALTH.
+Tentacle/6/5
+Seriously, another one? You are hit hard. Lose 2 HEALTH.
+Tentacle/6/5
+The last one desperately struggles against you. A lucky strike... lose 2 HEALTH.
+236
+Sandworm Maw/7/7
+The sandworm maw almost devours you. You lose 2 HEALTH instead.
+Sandworm Maw/8/9
+The sandworm maw spits its teeth at you. Several pierces you. Lose 2 HEALTH.
+251
+Gargoyle/8/7
+The gargoyle attacks with razor sharp claws. Lose 2 HEALTH.
+252
+Gargoyle/8/7
+The gargoyle attacks with razor sharp claws. Lose 2 HEALTH.
+253
+Gargoyle/8/7
+The gargoyle strikes with its tail. Caught off guard, you lose 2 HEALTH.
+279
+Kerrigan/13/21
+Kerrigan slashes at you with her first 'wing.' Unable to block, you lose 2 HP.
+280
+Kerrigan/13/21
+Kerrigan slashes at you with her first 'wing.' Unable to block, you lose 2 HP.
+285
+Fredrick's Monster/10/12
+The patchwork creature swings its fist at you. You are struck, and lose 2 HP.
+293
+Black Knight/11/8
+The Black Knight strikes with lightning speed. You feel sudden pain. Lose 2 HP.
+294
+Black Knight/11/8
+The Black Knight strikes with lightning speed. You feel sudden pain. Lose 2 HP.
+297
+Black Knight/9/5
+The Black Knight punches you with the strength of a bus. You lose 2 HEALTH. Ok.
+307
+King Midas/3/4
+King Midas just scrapes you with his fingertip...
+323	
+Weetbix/+2/20
+Weetbix strikes, with claws, tail, teeth and breath of flames. Lose 2 HEALTH.
+324
+Weetbix/-1/20
+Weetbix strikes, with claws, tail, teeth and breath of flames. Lose 2 HEALTH.
+329
+Skeleton Weetbix/0/14
+Weetbix bites at you, with horrid teeth. It is a graze, but you lose 2 HEALTH.
+333
+Skeleton Weetbix/-3/4
+Weetbix bites at you, with horrid teeth. It is a graze, but you lose 2 HEALTH.
+334
+Skeleton Weetbix/-2/11
+Weetbix bites at you, with horrid teeth. It is a graze, but you lose 2 HEALTH.
+339
+Shayla/-2/10
+Shayla feints to the right, then strikes with her left hand. You lose 4 HEALTH.
+340
+Shayla/-2/10
+Shayla feints to the right, then strikes with her left hand. You lose 4 HEALTH.
+342
+Shayla/+6/1
+Shayla strikes you in the back. You spin around but she is not there. Lose 1 HP.
+348
+Shayla/-4/1
+Shayla desperately strikes at you, and connects. Lose 1 HEALTH.

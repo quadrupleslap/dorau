@@ -1,0 +1,5 @@
+The lock is too difficult for you to pick As you struggle with it, unwilling to
+give up, you hear something in the direction you came from, and decide to 
+instead hurry down the corridor.
+
+(Press Enter to continue.)

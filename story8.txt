@@ -1,0 +1,9 @@
+Execution Square was named such because the area is in the shape of a circle and
+the National Ballet Academy often send their students to dance there. Even 
+today, an assortment of elves, dwarves and pixies are gathered there, debating
+troll philosophy.
+
+Now, are you lucky?
+NOTE: You are testing your LUCK. After a luck test, 1 luck will be deducted,
+regardless of whether you succeed or not.
+(Press Enter  to continue.)

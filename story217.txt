@@ -1,0 +1,6 @@
+% 4
+The spell you manage to cast throws a golden net at the zombie captain. Trapped
+by this net, it can only snarl at you, as you stab it to death. Lose 4 HEALTH 
+for this powerful spell, however.
+
+(Press Enter to continue.)

@@ -1,0 +1,17 @@
+>H 4
++Map to the Golden Monkey
+You pick the lock after a lot of hand wriggling. Where did you even get this 
+skill? The lock clicks, and you open the chest. Unfortunately, it is trapped; 
+you are shot by a poisoned dart, and lose 4 HEALTH.
+
+What is in the chest, however, may make it completely worth it. You pull out an
+old piece of parchment. 'X' marks the spot, and what's more, the spot is 
+located in the general direction of where you are going! A scribble dictates 
+that the 'X' is the location of a 'great object.'  At least, that's what it 
+should say.
+
+You add the map to your inventory. In the future, you may be able to make a 
+detour to claim this treasure.
+Now, do you:
+Go over to the other door? (57)
+Leave the ship? (192)

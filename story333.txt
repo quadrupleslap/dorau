@@ -1,0 +1,10 @@
+% 5
+>M 10
+>K 3
+You cast the Rank 5 'Holy Smite.' Wings extract from your back, and the light
+slams into the dragon in the form of a blade.
+
+The dragon roars, and loses 10 HEALTH, as well as 3 SKILL, but you lose 5 HEALTH
+from the mental exertion of this magical power. If it is not dead yet, finish
+it!
+¤¤ CONTINUE ¤¤

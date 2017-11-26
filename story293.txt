@@ -1,0 +1,16 @@
+You climb the stairs. No gargoyles attack you this time. It is quite uneventful,
+and you get to the top without a single trap triggering.
+
+However, once at the top, you find a suit of black armour blocking your way.
+There doesn't seem to be anyone in there, as it would have already seen you and
+attacked if there was. Despite this, when you place your leading foot upon the 
+third floor, the visor of the Western-styled armour glows blue, and the same
+ghastly light shines out from joints in the armour. The animated obstacle pulls
+out a lance from one of the walls.
+"None shall pass." it states.
+You charge this suit of armour, and it raises its lance in reply.
+
+The Black Knight SKILL:11 HEALTH:8
+
+You cannot escape in this instance. Where would you go, down the stairs again?
+**BATTLE**

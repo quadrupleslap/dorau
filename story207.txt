@@ -1,0 +1,32 @@
+-¤Excaliber¤
+-Death Note
++¤Callandor¤
+<H 5
+Excaliber is nothing like what it once was; the resplendent emerald and diamonds
+once upon its crossguard are now gone. Instead, that area is now shaped like a 
+dragon; the two wings making up the crossguard, tail wrapped around the hilt 
+and head resting upon the blade. Where the Excaliber was once gold, this is now
+silver; the entire weapon being a translucent, almost transparent, silver-blue 
+in colour, the blade slightly curved when it was once straight. Lilac offers you 
+the weapon, and you take it. A surge of power runs through you, and a wispish
+silver gauntlet materialises upon your sword hand. Curiously, you know that it 
+does not come off. Restore 5 HEALTH.
+
+"This weapon shall serve you well. It is the 'sword that is not a sword,' the 
+Callandor."
+
+From now on, you will use the Callandor in battle. The weapon is a magic 
+conduit. Whenever you cast a spell, you take 3 less damage than it says so, even
+to a total damage of 0 (but not below.) The sword will NOT give any SKILL 
+bonuses, like Excaliber, but it will deal 3 damage instead on a normal hit, and 
+five on a heavy. Additionally, its unique power as the 'sword that is not a 
+sword' allows it to shatter magical artifacts. This may become relevant later 
+on.
+
+Lilac grants you a final clue about your destiny.
+"Hero, in the end, remember that it is not her fault."
+"Now go, and don't look back."
+
+You leave, not taking a single glance backwards.
+
+(Press Enter to continue.)

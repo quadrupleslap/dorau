@@ -1,0 +1,18 @@
++Staminade
+You take a look around at your surroundings. The man in the white lab coat is
+quite dead. Judging from the corpse, it is pretty recent. You spare a word of 
+prayer for him.
+
+On the huge table to your left, amongst the various random potions and stuff,
+you find a bottle of a substance called 'Staminade.' You read the label. It 
+claims that it will 'regenerate health and beauty... etc etc so you can continue
+to do what you need to.' You decide to take it. What could just taking such a
+substance do to you?
+
+The 'Staminade' can be consumed at any time, even DURING combat. The drink will
+restore you to your INITIAL HEALTH when you consume it. What a pickup! Type
+'STAMINADE' into the 'Command' or 'Action' bar in order to drink this substance.
+
+You then, out of idle curiousity, take a look at the potions the scientist was
+making before his untimely death.
+(Press Enter to continue.)

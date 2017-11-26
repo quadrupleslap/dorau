@@ -1,0 +1,15 @@
+NOTES:
+The code is probably going to blow up one day or another, but until then 
+whatever.
+OK, it blew up already. 
+PROBLEMS:
+When you give a non-enter command at the end of a battle, the game does not 
+print out the passage that you need to see in order to continue, does not give
+any references.
+FIX:
+probably add a variable which will show whether it came from the battle screen
+or the print story screen, and accordingly do what it needs to do.
+
+# No, scratch the above. Have the story as the main reference, instead of 
+printStory, so that story references printStory, not the other way. Either that,
+or just replace story function into the printStory place. Rip. Long code coming

@@ -1,0 +1,12 @@
+~2
+You attack the aliens! To them, it must feel as if the air is showering blows on
+them. You fight them one at a time in the corridor, and at an additional bonus
+of 2 more SKILL (even over initial) during this battle for being invisible.
+
+Alien SKILL:8 HEALTH:9
+Alien SKILL:8 HEALTH:9
+Alien SKILL:10 HEALTH:8
+
+You may flee for free during this battle, as they cannot see you, making it 
+easy to disengage.
+**BATTLE**

@@ -1,0 +1,17 @@
++Provision
++Provision
++Provision
+You, to your luck, manage to somehow identify a number of non-poisonous edible
+plants, mostly fruits. You even suprise yourself by killing a small thing 
+resembling a chicken! You hope this food won't go bad on your journey.
+Altogether, there is enough food for 3 provisions.
+
+Provisions can be consumed at any time but during combat, and each restores 4
+HEALTH. Type 'EAT' into the 'Command' bar whenever you wish to consume one 
+portion.
+
+You return to the path by following the trail of destroyed flora, and offer a 
+silent prayer to the old dude you met earlier, in the hopes that he did not see
+this act.
+
+(Press Enter to continue.)

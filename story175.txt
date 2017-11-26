@@ -1,0 +1,18 @@
+You move to the trinkets store. Upon close inspection, most of the trinkets are
+just cheap imitations, or trash, plastics painted over again. However, some of
+the objects are actually genuine, or at least you suspect them to be.
+
+The person manning the store, upon seeing your resplendent suit and tie,
+mistakes you to be someone big.
+"Welcome!" he says. "I advise you purchase this beautiful ring for any female in
+your family here. I guarantee they will love it..."
+Ignoring him, do you want a:
+Pretty Amulet? ($19.00)
+Ring of Frost? ($30.00)
+Shiny Chain? ($29.05)
+
+If you would like to purchase anything, go to '190'.
+Else, do you want to:
+Visit the essential items store? (214)
+Visit the potions and poultices store? (80)
+Or leave the market area? (167)

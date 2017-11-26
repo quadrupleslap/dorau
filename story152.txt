@@ -1,0 +1,19 @@
+-Prism
++Staff
+You offer the elves the jewel you found upon the ship of the Fyar Nation. The 
+elves seem in awe of its beauty, and some even lower their bows in order to 
+see the object better. The important elf takes it from you.
+
+"Thankyou for your gift, human." the important elf says. "In return for this
+invaluable gift, we elves offer you this."
+
+A hardwood staff appears in her hand, and she offers it to you. It doesn't look
+like much, but the staff will help in reducing the strain of spell casting upon
+the mind. In the future, when casting a spell, you actually lose 3 LESS HEALTH
+than it says so in the passage. However, you will always lose a minimum of 1
+HEALTH, as the staff does not negate magical strain.
+
+The elves bow to you as they leave with your gift. In seconds, they have
+vanished into the undergrowth. 
+
+(Press Enter to continue.)

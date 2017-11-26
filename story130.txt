@@ -1,0 +1,4 @@
+The door does not recognise the password. It beeps, almost in warning.
+Now, you can:
+Leave. (75)
+Or try another password.

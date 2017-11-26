@@ -1,0 +1,23 @@
+>S 2
+The two of you race towards the portal, and leap in. At the point of contact, 
+you close your eyes...
+
+When you open them again, you see to your amazement that you are back in
+Execution Square! The elves, dwarves and pixies stare at you in amazement.
+"How... but yer just fell in!" a dwarf exclaims.
+Their amazement is cut short, though, by an object that blacks out the rays of 
+the sun. You look up to the sky - a great flying ship, bearing the signature
+skull and crossbones of the Sky Pirates!
+
+Ropes extend from the ship, and you hear frantic screaming around you. However,
+you do not have time to consider those unlucky victims; a pirate has descended 
+before you, brandishing a scimitar. You must fight the pirate.
+
+Sky Pirate SKILL:6 HEALTH:6
+
+This is your first battle, and you fight at -2 SKILL with your awesome suitcase.
+You will find that the 'Command' bar has become an 'Action' bar. Type 'A' into
+this action bar to attack, and 'H' to make a heavy attack. When the battle is 
+over, the 'Command' bar will return. Just press Enter to continue after a battle
+is over.
+**BATTLE**

@@ -1,0 +1,11 @@
+You go right. Unfortunately, the footsteps that were approaching came from that
+direction. The path goes East for a while, before turning North. As you turn the
+corner, you see three aliens advancing towards you. You almost panick, and 
+attack, before remembering the cloak that makes people invisible. As the aliens
+approach, you can hear their heated discussion of a recent game of Dungeons and
+Dragons. The corridor is too narrow for you to squeeze past them without them
+noticing, so....
+You can either:
+Back off, going North at the intersection. (75)
+Back off, going West. (192)
+Attack! (222)

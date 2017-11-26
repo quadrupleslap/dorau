@@ -1,0 +1,14 @@
++Provision
++Provision
++Provision
+<H 4
+You leap upon the mountain goat, and end its life with a well-placed slash to
+the jugular. For the rest of the day, you prepare the animal, and at night you
+build a fire and eat some. You regain 4 HEALTH.
+
+In the morning, you add the cooked meat to your suitcase. You have enough 
+servings for 3 meals. You can consume provisions at any time but in combat by
+typing 'EAT'. Each serving will restore 4 HEALTH to yourself. You get up, and
+continue onwards.
+
+(Press Enter to continue.)

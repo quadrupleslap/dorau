@@ -1,0 +1,9 @@
+You manage to finally make it up to the top of the stairs. Looking around, you 
+find that you are in a corridor. With no other choice, you follow this path, 
+wary of anything and everything.
+
+You first come to a door to the left. You try to listen in; you can hear the 
+very faint sound of dripping.
+Do you:
+Go inside? (1)
+Continue along the corridor? (2)

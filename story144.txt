@@ -1,0 +1,6 @@
+>H 4
+You are a second too late in your dodging, and the boar manages to nick you in
+the side with one of its tusks. You lose 4 HEALTH, but the boar is completely 
+dazed as it completes its charge into a tree.
+
+(Press Enter to continue.)

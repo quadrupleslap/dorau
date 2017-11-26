@@ -1,0 +1,5 @@
+<S 1
+% 2
+You use your magic, and an orb of light floats beside you. You now fight at 
+normal SKILL. Continue the battle! However, you lose 2 HEALTH for this act.
+**CONTINUE**

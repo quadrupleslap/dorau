@@ -1,0 +1,18 @@
+>S 1
+"Unhand me, grey-bearded loon!" you savagely cry.
+The mariner looks at you for the first time, then draws a huge sea anchor from
+what was the air next to him just mere seconds ago.
+"I SHOT THE ALBATROSS!" he screams.
+Put the Ancient Mariner to rest!
+
+Ancient Mariner SKILL:8 HEALTH:16
+|MINI BOSS|
+
+The anchor is really heavy, and will deal 3 damage to you every time it hits. In
+the meantime, the mariner will sprout random gibberish lines from his poem, 
+lowering your SKILL by 1 for this battle only, as you will find it hard to 
+concentrate. The mariner is vengeful; you will not be able to run from this 
+battle!
+@Magic& The mariner's gibberish also causes you to be unable to concentrate on
+@Magic& any magic.
+**BATTLE**

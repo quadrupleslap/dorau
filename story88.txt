@@ -1,0 +1,10 @@
+>S 2
+>H 1
+The magic within you unfortunately backfires with the technology around you. The
+cloak that makes people invisible is no longer making you invisible. You see
+understanding dawn on the alien's faes, and you would facepalm if you were not
+fighting for your life. Lose 1 HEALTH, and the SKILL bonus for being invisible.
+However, you think that the cloak is not destroyed, but rather just for this one
+fight, useless.
+Also, you can no longer escape.
+**CONTINUE**

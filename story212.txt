@@ -1,0 +1,5 @@
+You climb into the ship. To both your left and right, there is one door. Any 
+further into the ship is dangerous and, well, blocked by a huge rock.
+Will you:
+Enter the left door? (1)
+Enter the right door? (2)

@@ -1,0 +1,10 @@
+>H 4
+Anyone heard of beginner's luck? The first time you cast your magic, a series of
+runes appear within your head. In fact, you know exactly what to do. As the 
+aliens advance upon you, 5 blades of darkness flash outwards from your 
+outstretched palm and skewer the poor creatures. You feel huge mental strain 
+upon you from your first spell cast. The magic feedback causes you to heave,
+and you lose 4 HEALTH. The blades disappate, and all that is left are the two
+bodies.
+
+(Press Enter to continue.)

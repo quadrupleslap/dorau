@@ -1,0 +1,8 @@
++Death Note
+You press your watch three times, in quick succession, and a piece of paper pops
+out. The Death Note! Then, you realise something: You don't have anything to 
+write with. Add the Death Note to your inventory.
+Now will you: 
+	Run? (46)
+	Rush it with your suitcase? (222)
+	Call upon the power of the Lord Helix? (15)

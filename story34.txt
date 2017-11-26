@@ -1,0 +1,8 @@
+>H 2
+You escape down the dingy route that is Ruby Street. The thug strikes you in the
+back, between your shoulderblades; lose 2 HEALTH.
+
+Back at the intersection, you decide that Emerald Avenue looks like a much 
+safer road. You proceed down that way.
+
+(Press Enter to continue.)

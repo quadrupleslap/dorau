@@ -1,0 +1,13 @@
+% 7
+You cast a spell, one of the five forbidden magical arts. As the monster winds
+back for the next swing, you place your hand on its chest. It proceeds to throw
+its fist at you. Literally. The stitches have come apart, and you duck below 
+this attack.
+
+All the stitches holding its body together fall apart. You watch with horror as
+the monster comes apart in lumps of flesh and gore. Consumed by nausea, both 
+from the horrid sight of such a death and the effects of the magic upon your
+human body, you retch. Lose 7 HEALTH for dabbling in the forbidden arts. Wiping
+your hand along your mouth, you take a look around at the lab.
+
+(Press Enter to continue.)

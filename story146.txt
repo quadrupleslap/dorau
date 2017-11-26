@@ -1,0 +1,18 @@
+The man claps once, and the huge boar disappears from sight. He gives out a
+small 'hmph' noise in disappointment. 
+"Go on." he says, as you cautiously continue on your way.
+
+You have taken no more than about five minutes before you are stopped again. 
+Many pointly-eared humanoids surround you with their bows nocked, ready to 
+pincushion you at the slightest sign of ill-intent. These are elves, relatives
+of Shayla, though the two races both hate each other. (Maybe you shouldn't have
+made that comment about hippy elves before...)
+
+One of the elves step out. It is a woman, and her bow and crown suggests that 
+she is some sort of high-ranked authority in an elven hierachy.
+
+"State your purpose, human." she says.
+Do you reply:
+"I just want to get out of this forest." (146)
+"I come in peace, to offer you gifts!" (195)
+"What are you on about? I'm an elf..." (26)

@@ -1,0 +1,23 @@
+-Excaliber
++¤Excaliber¤
+His eyes get even wider upon seeing Excaliber. He takes it, and grunts.
+"A bit heavy, ain't it?" he says. "Lets see what I can do about that."
+He returns to his home, a hole well hidden by greenery, upon the side of the 
+mountain. Before long, you can hear the sound of hammer upon anvil, with a good
+variety of dwarvish curses being muttered from time to time.
+
+It is almost dark when the dwarf returns. In his hands is Excaliber. He offers
+the weapon back to you, and you are amazed at how light the sword is, after 
+taking a few practice swings.
+
+You will, from now on, use the 'Excaliber' in combat, rather than your scimitar.
+Excaliber grants you an EXTRA 2 SKILL bonus in battle. This can even go over the
+INITIAL SKILL limit. As the 'Sword of Victory', when facing against overwhelming
+odds, Excaliber will reflect your determination. For that, when facing an 
+opponent with higher SKILL than you even with this bonus, Excaliber helps by 
+granting ANOTHER 1 SKILL bonus, in addition to the previous, taking it to a 
+bonus of 3 SKILL.
+
+Humming happily from this trade-off, you walk off. 
+
+(Press Enter to continue.)

@@ -1,0 +1,8 @@
+% 8
+You cast a spell you saw only seconds ago: Balefire. The flames form a wall
+around you, and with a single hand you push outwards. The white fire spreads
+from you, consuming everything around you, until you are standing in the centre
+of a clearing. Lose 8 HEALTH.
+
+You kneel down on the dirt. All is finally over.
+(Press Enter to continue.)

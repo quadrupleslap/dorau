@@ -1,0 +1,14 @@
+You decide to brave the mountains. You never liked forests anyways. Too many
+trees. And elves.
+
+The going is quite tough, and it gets colder the higher up you go. You begin to
+think that this was an extremely bad idea. This is confirmed when what you 
+previously had thought were just a pile of rocks rose up, and takes the shape of
+a boulder beast. You must fight it!
+
+Boulder Beast SKILL:9 HEALTH:10
+
+You cannot escape; the climb down is far too treacherous, and you don't want to
+risk falling down!
+@Floater& However, you can use the floater, if you wish, to escape!
+**BATTLE**

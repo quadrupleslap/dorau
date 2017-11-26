@@ -1,0 +1,11 @@
+-Watch
+Outside the walls of the city, you feel that even the air is sweeter. However,
+despite your upbringing, you know fully well that the wild is lawless. In fact,
+to your misfortune, you find that your watch is missing! You can't even tell
+the time anymore.
+Which way do you think the pirate ship went? Do you try to pursue it:
+North? (85)
+East? (166)
+South? (180)
+It probably didn't go West. You know, cause of air turbulence. It was on the 
+weather forecast today.

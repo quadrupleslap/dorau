@@ -1,0 +1,8 @@
+<H 4
+Unfortunately, you can only find perishables and foods that are arguably 
+unsafe to consume. You reluctantly try one of the banana-like fruits, and are
+suprised to find it tastes like pineapple. Regain up to 4 points of lost
+HEALTH here.
+Feeling full, do you:
+Go North? (56)
+Go East? (116)

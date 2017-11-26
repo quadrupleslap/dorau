@@ -1,0 +1,8 @@
+The door opens, and you do not have any time to think before you are attacked by
+a monstrous creature that looks like a gorilla, but with a pincer for an arm.
+
+Mutant Thing SKILL:10 HEALTH:5
+
+The thing looks really strong, but you can't back off. It grabs onto you with
+one of its pincers, and you cannot escape!
+**BATTLE**

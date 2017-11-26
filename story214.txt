@@ -1,0 +1,6 @@
+You enter the room, and take a look around. The only thing you take note of is
+a large, wooden chest in the corner of the room. It seems the chest is locked.
+Now, will you:
+@Lockpicks& Open the chest? (333)
+Go over to the other door? (276)
+Leave the ship? (116)

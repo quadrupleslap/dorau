@@ -1,0 +1,9 @@
+% 4
+Gargoyles are naturally resilient to magic. However, they can still be
+indirectly influenced. Under your command, tree roots grow out from the ground,
+and lash the creature to the steps. You spend a bit of time cleaving at it as
+it is trapped, and it eventually goes still. Lose 4 HEALTH for this spell.
+
+You waste no time in continuing onwards.
+
+(Press Enter to continue.)

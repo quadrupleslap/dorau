@@ -1,0 +1,7 @@
+% 4
+Very fortunately, you cast the spell 'Shatter.' The spell does what it sounds
+like, and the suit of armour completely shatters. Its gauntlet hand twitches 
+futilely, before going still. Lose 4 HEALTH for this spell, but now you can
+carry on.
+
+(Press Enter to continue.)

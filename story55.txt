@@ -1,0 +1,8 @@
+Ah, South! An intelligent idea! It is said that South is the realm of wizards,
+magi, voodoo doctors and enchanters. You could learn a lot from one of these 
+individuals. That is, if you don't die first.
+
+You see, within the distance, a person coming closer. Unsure of whether they are
+friendly or not, do you wish to:
+Allow them to come without hiding? (47)
+Find somewhere to hide? (294)

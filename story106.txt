@@ -1,0 +1,10 @@
+<L 1
++Prism
+`107
+You investigate the sparkly object. It is actually a huge jewel cut in a shape
+with so many sides that you have no idea what to call it. You impulsively 
+snatch it. Looking around guiltily, none of the aliens seem to notice, so 
+intent they are on training themselves. Add 1 LUCK for your find.
+Now, will you:
+Go through the Northern door? (300)
+Go through the Western door? (68)

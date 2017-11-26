@@ -1,0 +1,21 @@
++Gatorade
+The path runs around the hills, and you decide to follow this useless path, in 
+fear of becoming lost. Soon, however, you come to a fork. The path runs two
+ways forward, one to the North-East and one to the South-East. The South-Eastern
+one passes into a forest, while the one to the North-East seems to trail up a 
+mountain. You secretly think that the topography of the land around you is sort
+of screwed up, or maybe your Geography teachers were just messing with you. 
+You still, however, believe that you should follow one of the paths, as your
+chance of being lost just increased exponentially.
+
+Before you have to flip a coin or something, however, you see a glint in the
+grass, and you decide to inspect it. It is a sports drink that somebody 
+presumably dropped. 'Gatorade' is what it is labeled as, and you pick it up. Due
+to the innate nature of sport drinks, you can drink it at ANY time, even DURING
+COMBAT, and additionally will restore your Health to its INITIAL value. When
+you want to consume this, type 'GATORADE' into either the 'Action' or 'Command'
+bar.
+
+Now, you have put off this incredibly difficult decision for a while, but:
+Go North-East, towards some mountains? (1)
+Go South-East, towards some forests? (2)

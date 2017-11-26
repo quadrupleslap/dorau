@@ -1,0 +1,6 @@
+You go through the door, and walk along the corridor for a short distance. The
+path ends at a fork. You look around, and must decide where to go.
+Do you proceed...
+North? (54)
+West? (251)
+South? (101)

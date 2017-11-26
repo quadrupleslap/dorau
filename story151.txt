@@ -1,0 +1,9 @@
+-Excaliber
+You offer the elves the sword, Excaliber. The elves are extremely excited at
+seeing the object, and instantly take it from you. The female elf with the crown
+on her head bows to you.
+"We will allow you free passage through the forest, if you wish it."
+Of course you do. The elves leave, and you feel as if you had been scammed. With
+no other option, you continue on your way.
+
+(Press Enter to continue.)

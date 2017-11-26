@@ -1,0 +1,22 @@
+-Suitcase
++Suitcase Blade
+You give the dwarf your suitcase. He looks at you as if you have mental
+problems, and goes into his home.
+"I'll see what I can do."
+You hear a lot of smashing and chainsaw noises underground, where he is working
+on your new weapon.
+
+It is late when he returns. Your suitcase now sprouts a dagger blade, and a 
+strap to hold onto it on one side. It is amazing how ingenious the dwarf is, to
+even think of creating such a thing.
+
+The 'suitcase blade' is a sword and shield at the same time. You now 
+automatically fight with this weapon, in addition to your normal scimitar. This
+grants you a 1 SKILL increase, during battle. Also, if the opponent scores a hit
+on you, you have a chance to negate all damage by blocking it with the suitcase
+blade. However, this will not be possible against any bosses.
+
+You walk off. Behind you, you hear the dwarf mutter.
+"Damn crazy human."
+
+(Press Enter to continue.)

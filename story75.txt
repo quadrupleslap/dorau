@@ -1,0 +1,8 @@
+You quickly come to a room. The door is smooth, and obviously automated, but the
+door jammer makes easy work of it. You step inside, and find what could be 
+arguably food stacked to the ceiling. You shiver. The room is obviously colder
+to preserve the food. There is one more door diagonally across the room.
+Do you: 
+Look for some non-perishable foods to take with you? (13)
+Go through the East exit? (116)
+Go throught the North exit? (56)
